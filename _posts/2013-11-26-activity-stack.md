@@ -7,7 +7,7 @@ comments: true
 
 > This is a migrated post from my former blog.
 
-This entry explains a way of *removing* and activity when you navigate to another. So, if you press back button you won't return to it.
+This entry explains a way to *remove* and activity when you navigate to another. So, if you press back button you won't return to it.
 
 But, is it useful?
 
