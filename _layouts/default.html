@@ -12,6 +12,9 @@
       </script>
     {% endif %}
     <meta charset="UTF-8">
+    <link rel="icon" 
+      type="image/png" 
+      href="/image/fav_icon.png">
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,9 +23,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
+      <img src="/img/logo.png"
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
