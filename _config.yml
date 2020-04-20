@@ -3,3 +3,5 @@ permalink: /post/:title
 exclude: ['Gemfile','Gemfile.lock','Rakefile','.git']
 paginate: 5
 paginate_path: /page/:num
+
+theme: jekyll-theme-cayman
