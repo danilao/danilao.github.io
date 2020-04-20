@@ -1,7 +1,5 @@
-highlighter: pygments
-permalink: /post/:title
-exclude: ['Gemfile','Gemfile.lock','Rakefile','.git']
-paginate: 5
-paginate_path: /page/:num
-
 theme: jekyll-theme-cayman
+title: pineappslab
+description: A multi purpose projects site by Dani Lao
+show_downloads: false
+google_analytics: UA-45197259-1
