@@ -23,7 +23,7 @@ If you want to buy any of them visit my [Redbubble store](https://www.redbubble.
 
 <img src="/img/parallax_layers.png" width="128" height="128">
 
-An iOS app to create 3D movement effects through image layers. See it on the [App Store]()
+An iOS app to create 3D movement effects through image layers. See it on the [App Store](https://apps.apple.com/us/app/parallax-layers/id1507546455)
 
 ## Run Mati Run
 
