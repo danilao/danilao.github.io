@@ -21,13 +21,13 @@ If you want to buy any of them visit my [Redbubble store](https://www.redbubble.
 
 ## Parallax Layers
 
-<img src="/img/parallax_layers.png" width="128" height="128">
+[<img src="/img/parallax_layers.png" width="128" height="128">](https://apps.apple.com/us/app/parallax-layers/id1507546455)
 
 An iOS app to create 3D movement effects through image layers. See it on the [App Store](https://apps.apple.com/us/app/parallax-layers/id1507546455)
 
 ## Run Mati Run
 
-<img src="/img/runmatirun.png" width="128" height="128">
+[<img src="/img/runmatirun.png" width="128" height="128">](https://apps.apple.com/us/app/run-mati-run/id1019198515)
 
 A quite hard pixel art infinity runner for [iOS](https://apps.apple.com/us/app/run-mati-run/id1019198515)
 
