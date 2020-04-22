@@ -9,13 +9,23 @@ I work as an iOS engineer in Madrid.
 Some years ago, I created **pineappslab** as a site for collecting all my projects and hobbies.
 It involves programming, music, illustrations and animations.
 
+
 # My drawings
+
+[<img src="/img/sketch.jpg" width="128" height="128">](https://www.instagram.com/dlao_sketching/)
 
 I'm a big fan of urbansketching. If you want to take a look at some of my sketches follow me at [@dlao_sketching](https://www.instagram.com/dlao_sketching/) on Instagram.
 
+
+[<img src="/img/draw.jpg" width="128" height="128">](https://www.instagram.com/dlao_draw/)
+
 Also, I really like character design and illustration. You can see my drawings at [@dlao_draw](https://www.instagram.com/dlao_draw/) on Instagram.
 
+
+[<img src="/img/shop.png" width="128" height="128">](https://www.redbubble.com/es/people/danilao/shop)
+
 If you want to buy any of them visit my [Redbubble store](https://www.redbubble.com/es/people/danilao/shop).
+
 
 # My apps
 
