@@ -27,13 +27,19 @@ Also, I really like character design and illustration. You can see my drawings a
 If you want to buy any of them visit my [Redbubble store](https://www.redbubble.com/es/people/danilao/shop).
 
 
-# My apps
+# My apps and games
 
 ## Parallax Layers
 
 [<img src="/img/parallax_layers.png" width="128" height="128">](https://apps.apple.com/us/app/parallax-layers/id1507546455)
 
 An iOS app to create 3D movement effects through image layers. See it on the [App Store](https://apps.apple.com/us/app/parallax-layers/id1507546455)
+
+## Battery Care Alarm
+
+[<img src="/img/batteryCare.png" width="128" height="128">](https://apps.apple.com/us/app/battery-care-alarm/id1510510179)
+
+An iOS app to set an alarm when the device battery reaches a certain value. Useful to not overcharge devices and care their battery life. Download it from the [App Store] (https://apps.apple.com/us/app/battery-care-alarm/id1510510179)
 
 ## Run Mati Run
 
