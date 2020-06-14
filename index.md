@@ -35,11 +35,13 @@ If you want to buy any of them visit my [Redbubble store](https://www.redbubble.
 
 An iOS app to create 3D movement effects through image layers. See it on the [App Store](https://apps.apple.com/us/app/parallax-layers/id1507546455)
 
+There's also a [_lite version_](https://apps.apple.com/us/app/parallax-layers-lite/id1511759174)
+
 ## Battery Care Alarm
 
 [<img src="/img/batteryCare.png" width="128" height="128">](https://apps.apple.com/us/app/battery-care-alarm/id1510510179)
 
-An iOS app to set an alarm when the device battery reaches a certain value. Useful to not overcharge devices and care their battery life. Download it from the [App Store] (https://apps.apple.com/us/app/battery-care-alarm/id1510510179)
+An iOS app to set an alarm when the device battery reaches a certain value. Useful to not overcharge devices and care their battery life. Download it from the [App Store](https://apps.apple.com/us/app/battery-care-alarm/id1510510179)
 
 ## Run Mati Run
 
