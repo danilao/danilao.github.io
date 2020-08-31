@@ -41,7 +41,7 @@ There's also a [_lite version_](https://apps.apple.com/us/app/parallax-layers-li
 
 [<img src="/img/batteryCare.png" width="128" height="128">](https://apps.apple.com/us/app/battery-care-alarm/id1510510179)
 
-An iOS app to set an alarm when the device battery reaches a certain value. Useful to not overcharge devices and care their battery life. Download it from the [App Store](https://apps.apple.com/us/app/battery-care-alarm/id1510510179)
+An iOS/Android app to set an alarm when the device battery reaches a certain value. Useful to not overcharge devices and care their battery life. Download it from the [App Store](https://apps.apple.com/us/app/battery-care-alarm/id1510510179) or [Google Play](https://play.google.com/store/apps/details?id=com.danilao.batterycarealarm)
 
 ## Run Mati Run
 
