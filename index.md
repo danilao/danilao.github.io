@@ -29,6 +29,19 @@ If you want to buy any of them visit my [Redbubble store](https://www.redbubble.
 
 # My apps and games
 
+## Painter Values Check
+
+[<img src="/img/pvc.png" width="128" height="128">](https://apps.apple.com/us/app/id1531149807)
+
+Values are the colors' relative lightness or darkness. They define the contrast and variety in a painting and create a focal point.
+
+If you want your painting to work and pop the main shapes should have different values.
+
+Painter Values Check allows you to check values in realtime through your device camera and also analyze it or any other image imported from Photo Gallery.
+
+Get it on the [App Store](https://apps.apple.com/us/app/id1531149807)
+
+
 ## Parallax Layers
 
 [<img src="/img/parallax_layers.png" width="128" height="128">](https://apps.apple.com/us/app/parallax-layers/id1507546455)
