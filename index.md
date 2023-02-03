@@ -40,7 +40,7 @@ If you want to buy any of them visit my [Redbubble store](https://www.redbubble.
 
 ## Recipe Sizer
 
-[<img src="/img/recipe/sizer.png" width="128" height="128">](https://apps.apple.com/us/app/id1633266293)
+[<img src="/img/recipe_sizer.png" width="128" height="128">](https://apps.apple.com/us/app/id1633266293)
 
 Recipe Sizer is the perfect app for managing your recipes.
 
