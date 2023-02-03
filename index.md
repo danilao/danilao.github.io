@@ -9,6 +9,15 @@ I work as an iOS engineer in Madrid.
 Some years ago, I created **pineappslab** as a site for collecting all my projects and hobbies.
 It involves programming, music, illustrations and animations.
 
+# dlao Markers brushes for Procreate
+
+[<img src="/img/dlao_markers.jpg" width="128" height="128">](https://dlao.gumroad.com/l/pctmkrs)
+
+A set of Procreate brushes to simulate real markers.
+
+They are perfect for sketching and final illustrations.
+
+Get them on [Gumroad](https://dlao.gumroad.com/l/pctmkrs)
 
 # My drawings
 
@@ -28,6 +37,22 @@ If you want to buy any of them visit my [Redbubble store](https://www.redbubble.
 
 
 # My apps and games
+
+## Recipe Sizer
+
+[<img src="/img/recipe/sizer.png" width="128" height="128">](https://apps.apple.com/us/app/id1633266293)
+
+Recipe Sizer is the perfect app for managing your recipes.
+
+It's been developed to ease your tasks:
+
+1. Create your recipes and take a look at them at any time
+2. Change the number of diners and the app will recalculate the correct amount of ingredients
+3. Find the recipes that contains a certain ingredient
+
+With a simple design and beautiful illustrations!
+
+Get it on the [App Store](https://apps.apple.com/us/app/id1633266293)
 
 ## Painter Values Check
 
