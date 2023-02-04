@@ -15,7 +15,7 @@ It involves programming, music, illustrations and animations.
 
 A set of Procreate brushes to simulate real markers.
 
-They are perfect for sketching and final illustrations.
+They are perfect for sketching and studies.
 
 Get them on [Gumroad](https://dlao.gumroad.com/l/pctmkrs)
 
