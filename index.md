@@ -11,13 +11,13 @@ It involves programming, music, illustrations and animations.
 
 # dlao Markers brushes for Procreate
 
-[<img src="/img/dlao_markers.jpeg" width="128" height="128">](https://dlao.gumroad.com/l/pctmkrs)
+[<img src="/img/dlao_markers.jpeg" width="128" height="128">](https://dlao.gumroad.com/)
 
 A set of Procreate brushes to simulate real markers.
 
 They are perfect for sketching and studies.
 
-Get them on [Gumroad](https://dlao.gumroad.com/l/pctmkrs)
+Get them on [Gumroad](https://dlao.gumroad.com/)
 
 # My drawings
 
