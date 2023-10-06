@@ -11,13 +11,13 @@ It involves programming, music, illustrations and animations.
 
 # dlao Markers brushes for Procreate
 
-[<img src="/img/dlao_markers.jpg" width="128" height="128">](https://dlao.gumroad.com/l/pctmkrs)
+[<img src="/img/dlao_markers.jpeg" width="128" height="128">](https://dlao.gumroad.com/)
 
 A set of Procreate brushes to simulate real markers.
 
-They are perfect for sketching and final illustrations.
+They are perfect for sketching and studies.
 
-Get them on [Gumroad](https://dlao.gumroad.com/l/pctmkrs)
+Get them on [Gumroad](https://dlao.gumroad.com/)
 
 # My drawings
 
@@ -40,7 +40,7 @@ If you want to buy any of them visit my [Redbubble store](https://www.redbubble.
 
 ## Recipe Sizer
 
-[<img src="/img/recipe/sizer.png" width="128" height="128">](https://apps.apple.com/us/app/id1633266293)
+[<img src="/img/recipe_sizer.png" width="128" height="128">](https://apps.apple.com/us/app/id1633266293)
 
 Recipe Sizer is the perfect app for managing your recipes.
 
